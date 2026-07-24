@@ -23,7 +23,8 @@ O objetivo deste repositório é registrar minha evolução na linguagem Python,
 |----|----------|--------|
 | 01 | Calculadora de Gorjeta | ✅ Concluído |
 | 02 | Validador de CPF | ✅ Concluído |
-| 03 | Contador de vogais | ⌛️ Em andamento |
+| 03 | Contador de vogais | ✅ Concluído |
+| 04 | Gerador de senha | ⌛️ Em andamento |
 
 > A tabela será atualizada conforme novos projetos forem sendo desenvolvidos.
 

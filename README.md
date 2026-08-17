@@ -27,6 +27,9 @@ O objetivo deste repositório é registrar minha evolução na linguagem Python,
 | 04 | Identificador de Palavras | ✅ Concluído |
 | 05 | Gerador de Senhas | ✅ Concluído |
 | 06 | Pedra, Papel, Tesoura | ✅ Concluído |
+| 07 | Adivinhar número | ✅ Concluído |
+| 08 | Calculadora | ✅ Concluído |
+| 09 | Gerenciador de Tarefas | ✅ Concluído |
 
 > A tabela será atualizada conforme novos projetos forem sendo desenvolvidos.
 
